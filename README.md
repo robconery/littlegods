@@ -1,4 +1,4 @@
-# Gen X Programmer · Satirical Résumé
+# Rob Conery · Satirical Résumé
 
 A single-file site. `index.html` has everything inlined (fonts, photos, scripts), so it works from any static host with no build step.
 
